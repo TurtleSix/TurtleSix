@@ -10,7 +10,7 @@ I’m an **Applied Mathematics** student at Cracow University of Technology, pas
 - Programming in Python, R, and SQL  
 
 ## 🛠 Technologies & Tools
-###Languages
+### Languages
 - Python
 - R
 - SQl
