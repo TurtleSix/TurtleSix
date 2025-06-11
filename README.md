@@ -7,7 +7,8 @@ I’m an **Applied Mathematics** student at Cracow University of Technology, pas
 ## 🎯 Interests
 - Mathematical modeling & optimization  
 - Data analysis / Data Science  
-- Programming in Python, R, and SQL  
+- Programming in Python, R, and SQL
+- Machine Learning and AI
 
 ## 🛠 Technologies & Tools
 ### Languages
