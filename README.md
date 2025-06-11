@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name]! 👋
+# Hi, I’m Piotrek! 👋
 
 I’m an **Applied Mathematics** student at Cracow University of Technology, passionate about leveraging mathematical techniques in programming and data analysis.
 
