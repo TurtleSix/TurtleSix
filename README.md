@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m [Your Name]! 👋
 
-<!--
-**TurtleSix/TurtleSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Applied Mathematics** student at Cracow University of Technology, passionate about leveraging mathematical techniques in programming and data analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- Mathematical modeling & optimization  
+- Data analysis / Data Science  
+- Programming in Python, R, and SQL  
+
+## 🛠 Technologies & Tools
+| Languages    | Libraries / Frameworks       | Other Tools         |
+|--------------|------------------------------|---------------------|
+| Python       | NumPy, SciPy, pandas         | Git, Docker         |
+| R            | tidyverse, ggplot2           | LaTeX, Overleaf     |
+| SQL          | MariaDB, MySQL               |DBeaver              |
+
+---
+
+## 🚀 Projects
+- Soon
