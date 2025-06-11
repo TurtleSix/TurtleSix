@@ -10,11 +10,14 @@ I’m an **Applied Mathematics** student at Cracow University of Technology, pas
 - Programming in Python, R, and SQL  
 
 ## 🛠 Technologies & Tools
-| Languages    | Libraries / Frameworks       | Other Tools         |
-|--------------|------------------------------|---------------------|
-| Python       | NumPy, SciPy, pandas         | Git, Docker         |
-| R            | tidyverse, ggplot2           | LaTeX, Overleaf     |
-| SQL          | MariaDB, MySQL               |DBeaver              |
+###Languages
+- Python
+- R
+- SQl
+### Tools
+- Pandas, NumPy, SciPy, PySpark, Seaborn, Scikit-learn, silx
+- MariaDB, MySQL
+- tidyverse, ggplot2
 
 ---
 
