@@ -13,7 +13,7 @@ I’m an **Applied Mathematics** student at Cracow University of Technology, pas
 ### Languages
 - Python
 - R
-- SQl
+- SQL
 ### Tools
 - Pandas, NumPy, SciPy, PySpark, Seaborn, Scikit-learn, silx
 - MariaDB, MySQL
